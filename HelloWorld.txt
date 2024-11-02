@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 hello yehonatan.
 hello or.
-=======
-hello world.
->>>>>>> parent of 9ab8786 (Second Change)
